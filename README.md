@@ -2,13 +2,12 @@
 
 A place to store everything related to the memnix's community
 
-___
-
+# Table of contents
 - [Community guidelines](#community-guidelines)
+- [Table of contents](#table-of-contents)
 - [Privacy](#privacy)
 - [Licence](#licence)
 
-___
 # Privacy
 
 You can also find our [privacy policy](PRIVACY.md)
