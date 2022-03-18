@@ -1,4 +1,5 @@
 # Contributing to Memnix
+
 ___
 
  :sheep: :rose: First off, thanks for taking the time to contribute! :sheep: :rose:
@@ -7,7 +8,7 @@ The following is a set of guidelines for contributing to Memnix. These are mostl
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
-- Reporting a bug 
+- Reporting a bug
 
 - Discussing the current state of the code
 
@@ -17,20 +18,22 @@ We love your input! We want to make contributing to this project as easy and tra
 
 - Becoming a maintainer
 
-# Table of contents
+## Table of contents
+
 ___
 
 - [Contributing to Memnix](#contributing-to-memnix)
-- [Table of contents](#table-of-contents)
-- [We use Github Flow](#we-use-github-flow)
-- [Reporting a bug](#reporting-a-bug)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Styleguides](#styleguides)
-- [License](#license)
-- [References](#references)
+  - [Table of contents](#table-of-contents)
+  - [We use Github Flow](#we-use-github-flow)
+  - [Reporting a bug](#reporting-a-bug)
+  - [Suggesting Enhancements](#suggesting-enhancements)
+  - [Your First Code Contribution](#your-first-code-contribution)
+  - [Styleguides](#styleguides)
+  - [License](#license)
+  - [References](#references)
 
-# We use Github Flow 
+## We use Github Flow
+
 ___
 
 Pull requests are the best way to propose changes to the codebase ([Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)). We actively welcome your pull requests:
@@ -42,17 +45,17 @@ Pull requests are the best way to propose changes to the codebase ([Github Flow]
 5. Make sure your code lints.
 6. Issue that pull request!
 
-# Reporting a bug
+## Reporting a bug
+
 ___
 
-
-We use GitHub issues to track public bugs. 
+We use GitHub issues to track public bugs.
 
 After you've determined which repository your bug is related to, create an issue on that repository and explain the problem and include additional details to help maintainers reproduce the problem:
 
 - **Use a clear and descriptive title** for the issue to identify the problem.
 
-- **Describe the exact steps which reproduce the problem** in as many details as possible.When listing steps, **don't just say what you did, but explain how you did it**. 
+- **Describe the exact steps which reproduce the problem** in as many details as possible.When listing steps, **don't just say what you did, but explain how you did it**.
 
 - **Provide specific examples to demonstrate the steps.** Include links to files or create a gist, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use Markdown code blocks.
 
@@ -60,17 +63,18 @@ After you've determined which repository your bug is related to, create an issue
 
 - **Explain which behavior you expected to see instead and why.**
 
-- **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem. 
+- **Include screenshots and animated GIFs** which show you following the described steps and clearly demonstrate the problem.
 
 - **If the problem wasn't triggered by a specific action,** describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Include details about your configuration and environment:
 
-- **Which version are you using?** 
+- **Which version are you using?**
 
 - **What's the name and version of the OS you're using?**
 
-# Suggesting Enhancements
+## Suggesting Enhancements
+
 ___
 
 This section guides you through submitting an enhancement suggestion for Memnix, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions .
@@ -97,17 +101,19 @@ Enhancement suggestions are tracked as GitHub issues. After you've determined wh
 
 - **Explain why this enhancement would be useful to most Memnix users.**
 
-# Your First Code Contribution
+## Your First Code Contribution
+
 ___
 
 Unsure where to begin contributing to Atom? You can start by looking through `beginner` and `help-wanted` issues:
 
 - Beginner issues
-   - issues which should only require a few lines of code, and a test or two.
+  - issues which should only require a few lines of code, and a test or two.
 - Help wanted issues
   - issues which should be a bit more involved than `beginner` issues.
 
-# Styleguides
+## Styleguides
+
 ___
 
 **Git Commit Messages**
@@ -120,7 +126,7 @@ ___
 
   - :art: when improving the format/structure of the code
 
-  - :racehorse:  when improving performance 
+  - :racehorse:  when improving performance
 
   - :memo: when writing docs
 
@@ -132,18 +138,20 @@ ___
 
   - :lock: when dealing with security
 
-  - :arrow_up: when upgrading dependencies 
+  - :arrow_up: when upgrading dependencies
 
   - :arrow_down: when downgrading dependencies
 
   - :shirt: when removing linter warnings
 
-# License
+## License
+
 ___
 
 By contributing, you agree that your contributions will be licensed under the same license as the repository you are contributing to.
 
-# References
+## References
+
 ___
 
-This document was adapted from the [atom contribution guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#i-dont-want-to-read-this-whole-thing-i-just-have-a-question) and from this [gist](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62). 
+This document was adapted from the [atom contribution guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#i-dont-want-to-read-this-whole-thing-i-just-have-a-question) and from this [gist](https://gist.github.com/briandk/3d2e8b3ec8daf5a27a62).
