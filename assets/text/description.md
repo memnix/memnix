@@ -15,7 +15,6 @@ Last edited: **26/11/2021**
     - [Quizz de culture générale](#quizz-de-culture-générale)
   - [Contributors](#contributors)
 
-
 ## English
 
 ### Presentation
