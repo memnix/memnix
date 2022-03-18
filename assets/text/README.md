@@ -2,6 +2,6 @@
 
 A place to store Memnix's official texts !
 
-# Licence
+## Licence
 
 Please follow the licence stated in [LICENCE.md](LICENCE.md)
